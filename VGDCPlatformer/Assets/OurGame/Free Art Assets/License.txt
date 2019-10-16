@@ -1,0 +1,41 @@
+LICENSES OF ARTISTS
+
+Taiga assets pack (created by Vicente Nitti) [used for background] {itch.io}
+=== LICENSE ===
+This pixel art piece is licensed under a Creative Commons Atribution 4.0 International license CC BY 4.0,
+which reads the following:
+
+You are free to:
+	+ Share — copy and redistribute the material in any medium or format
+	+ Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+	+ Attribution — You must give appropriate credit, provide a link to the license, and indicate if
+	  changes were made. You may do so in any reasonable manner, but not in any way that suggests the
+	  licensor endorses you or your use.
+	+ No additional restrictions — You may not apply legal terms or technological measures that legally
+	  restrict others from doing anything the license permits.
+
+
+Animated Pixel Adventurer 1.5 (creatured by rvros) [modified to create character] {itch.io}
+License Permissions:
+
+You can do:
+- You can use this asset for personal and commercial purpose. Credit is not required but would be appreciated. 
+- Modify to suit your needs.
+
+You cannot do:
+- Resell/redistribute this asset.
+
+
+Free PlatformerNA (created by Namatnieks) [main art for backgrounds and foregrounds] {itch.io}
+LICENCE: 
+This asset pack can be used in both free and commercial projects. 
+You can modify it to suit your own needs. Credit is not necessary, 
+but appreciated.  You may not redistribute it or resell it.
+
+
+CREDIT OF OTHER ARTISTS
+Drill spritesheet with animation (Created by Henry Nguyen (UCI Art Strike))
+[modified to create boss and Chasing enemy]
+Music & SFX: (Created by Danny Spencer) 
